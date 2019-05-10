@@ -4,7 +4,7 @@ while True:
     if(inputvalue.lower() == "help"):
         print("""
 Start -- to start the car
-Stop - to stop the car")
+Stop - to stop the car
 quit - to terminate""")
     elif(inputvalue.lower() == "start"):
         if(index == "start"):
